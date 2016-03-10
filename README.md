@@ -1,5 +1,5 @@
 # munchkin_homerules
-Set of homerules for Munchkin boardgame used by my friends and me. They are placed here for accessability and collaboratual editing puposes. We use localasied russian card set, so these rules are in Russian too. 
+Set of homerules for Munchkin boardgame used by my friends and me. They are placed here for accessability and collaboratual editing purposes. We use localasied russian card set, so these rules are in Russian too. 
 
 (T) - правило подлежит тестированию. 
 
